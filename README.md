@@ -8,6 +8,8 @@ I like functional programming, infrastructure as code, and developing mobile-fri
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=jottenlips&count_private=true&theme=dark)
 
+Spouse of: [@AdrienneFranke](https://github.com/adriennefranke)
+
 contracting at: [@Vestaboard](https://github.com/Vestaboard)
 
 previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Budgie Health](https://github.com/budgie-health)
