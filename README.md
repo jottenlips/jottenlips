@@ -10,6 +10,6 @@ I like functional programming, infrastructure as code, and developing mobile-fri
 
 Spouse of: [@AdrienneFranke](https://github.com/adriennefranke)
 
-contracting at: [@Vestaboard](https://github.com/Vestaboard)
+Currently at: [@Vestaboard](https://github.com/Vestaboard)
 
-previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Budgie Health](https://github.com/budgie-health)
+Previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Budgie Health](https://github.com/budgie-health)
