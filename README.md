@@ -1,4 +1,5 @@
 Hey, I am John Franke,
+
 I like functional programming, serverless architecture, and developing mobile-friendly web apps. I started my career building iOS apps and then got into full-stack development. I love collaborating on innovative products and learning new technology. Feel free to drop a follow or star if you like anything I have been making.
 
 ✌️
