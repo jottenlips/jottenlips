@@ -1,6 +1,6 @@
 👋 Hey, I am John Franke.
 
-I like functional programming, infrastructure as code, and developing mobile-friendly web apps. I started my career building iOS apps and then got into full-stack development and a bit of devops. I love collaborating on innovative products and learning new technology. Feel free to drop a follow or star if you like anything I have been making. I am also open for work.
+I like functional programming, infrastructure as code, and developing mobile-friendly web apps. I started my career building iOS apps and then got into full-stack development and a bit of devops. I love collaborating on innovative products and learning new technology. Feel free to drop a follow or star if you like anything I have been making. I am also open to new oppurtunities.
 
 ✌️
 
