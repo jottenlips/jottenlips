@@ -13,4 +13,4 @@ Spouse of: [@AdrienneFranke](https://github.com/adriennefranke)
 
 Currently at: [@Vestaboard](https://github.com/Vestaboard)
 
-Previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Hack Audio](https://github.com/hack-audio) [@Budgie Health](https://github.com/budgie-health)
+Previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Hack Audio](https://github.com/hackaudio), [@Budgie Health](https://github.com/budgie-health)
