@@ -12,4 +12,4 @@ Currently at: [@Vestaboard](https://github.com/Vestaboard)
 
 Previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/FOH-BOH), [@Hack Audio](https://github.com/hackaudio), [@Budgie Health](https://github.com/budgie-health)
 
-GitLab: [johnfranke94](https://gitlab.com/johnfranke94)
+GitLab 🦊: [johnfranke94](https://gitlab.com/johnfranke94) 
