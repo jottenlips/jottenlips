@@ -4,7 +4,7 @@ I like functional programming, infrastructure as code, and developing mobile-fri
 
 ✌️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jottenlips&hide=Jupyter%20Notebook,html,python,svelte&layout=compact&langs_count=20&theme=dark&custom_title=Languages%20I%20Use)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jottenlips&hide=Jupyter%20Notebook,html,svelte&layout=compact&langs_count=20&theme=dark&custom_title=Languages%20I%20Use)
 
 Spouse of: [@AdrienneFranke](https://github.com/adriennefranke)
 
