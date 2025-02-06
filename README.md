@@ -12,4 +12,4 @@ Previous: [@Aloompa](https://github.com/Aloompa), [@Foh&boh](https://github.com/
 
 GitLab 🦊: [johnfranke94](https://gitlab.com/johnfranke94) 
 
-[Blog](https://johnfranke.com)
+[Blog](https://jottenlips.github.io/)
